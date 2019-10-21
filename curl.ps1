@@ -1,0 +1,1 @@
+curl http://172.22.0.90:8080/job/01-deploy-avaliacao-homolog/build?delay=0sec

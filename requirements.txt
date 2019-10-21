@@ -1,0 +1,260 @@
+boto3==1.9.44
+botocore==1.12.44
+cryptography==1.8.2
+Django==2.1.1
+django-bootstrap-themes==3.3.6
+django-bootstrap3==11.0.0
+django-bootstrap4==0.0.7
+django-contrib-comments==1.9.0
+django-cors-headers==2.4.0
+django-easy-pdf==0.1.1
+django-fontawesome==0.3.1
+django-hstore==1.4.2
+django-icons==0.2.1
+django-jsonfield==1.0.1
+django-lrucache-backend==0.2.1
+django-model-utils==3.1.2
+django-phonenumber-field==2.0.1
+django-picklefield==1.1.0
+django-rest-hooks==1.5.0
+django-rq==1.2.0
+django-sms-gateway==1.2.1
+django-twilio==0.9.3
+django-user-agents==0.3.2
+django-uuidfield-2==0.6.6
+# docutils==0.14
+# EasyProcess==0.2.3
+# EditorConfig==0.12.1
+# emoji==0.5.1
+# en-core-web-sm==2.0.0
+# entrypoints==0.2.3
+# ez-setup==0.9
+# fcache==0.4.7
+# feedparser==5.2.1
+# Flask==0.10.1
+# Flask-RESTful==0.3.3
+# fpdf==1.7.2
+# freesms==0.1.2
+future==0.16.0
+# gensim==3.6.0
+# geocoder==1.38.1
+# geojson==2.3.0
+# gitdb2==2.0.3
+# GitPython==2.1.8
+# gmaps==0.7.4
+# google-api-python-client==1.7.7
+# google-auth==1.5.1
+# google-auth-httplib2==0.0.3
+# google-auth-oauthlib==0.2.0
+# google-streetview==1.2.4
+# googlemaps==2.5.1
+# GrabzIt==3.2.8.1
+# gsheets==0.3.1
+# gspread==3.0.1
+# h2==2.6.2
+# hpack==3.0.0
+# html2text==2016.9.19
+# html5lib==1.0.1
+# httmock==1.2.6
+# httplib2==0.11.3
+# hyperframe==4.0.2
+# hyperlink==17.3.1
+# idna==2.6
+# image==1.5.20
+# imagesize==0.7.1
+# imgkit==1.0.1
+# incremental==17.5.0
+# ipykernel==4.8.0
+# ipython==6.2.1
+# ipython-genutils==0.2.0
+# ipywidgets==7.2.1
+# isort==4.2.15
+# itsdangerous==0.24
+# jedi==0.11.1
+# Jinja2==2.10
+# jmespath==0.9.3
+# jsbeautifier==1.6.14
+# jsonschema==2.6.0
+# jupyter-client==5.2.1
+jupyter-core==4.4.0
+# kaitaistruct==0.6
+# kombu==4.2.1
+# kwconfig==1.1.7
+# lazy-object-proxy==1.3.1
+# ldap3==2.5.2
+# link-checker==0.1.2
+# lru-cache==0.2.3
+# lru-dict==1.1.6
+# lxml==4.1.1
+# macholib==1.11
+# MarkupSafe==1.0
+# matplotlib==2.1.0
+# mccabe==0.6.1
+# Minidetector==0.1
+# mistune==0.8.3
+# mock==1.0.1
+# modulegraph==0.17
+# more-itertools==5.0.0
+# msgpack==0.5.6
+# msgpack-numpy==0.4.3.1
+# multipart-encode==0.1.0
+# munch==2.2.0
+# murmurhash==0.28.0
+# Naked==0.1.31
+# nbconvert==5.3.1
+# nbformat==4.4.0
+# ngrok==0.0.1
+# nltk==3.3
+# notebook==5.4.1
+numpy==1.13.3
+numpydoc==0.7.0
+# oauth2client==4.1.2
+# oauthlib==2.1.0
+# opencv-python==3.4.0.12
+# packaging==16.8
+pandas==0.21.0
+# pandas
+# pandocfilters==1.4.2
+# parsel==1.3.1
+# parso==0.1.1
+# passlib==1.7.1
+# pathtools==0.1.2
+# patsy==0.5.0
+# patterns==0.3
+# pdfkit==0.6.1
+# pdfrw==0.4
+# phonenumbers==8.9.14
+# pickleshare==0.7.4
+# Pillow==5.1.0
+# plac==0.9.6
+# plot==0.6.1
+# pluggy==0.8.1
+# poster==0.8.1
+# preshed==1.0.1
+# prompt-toolkit==1.0.15
+# psutil==5.4.3
+psycopg2==2.7.6.1
+# psycopg2
+cx-Oracle==7.1.2
+# pt-core-news-sm==2.0.0
+# py==1.7.0
+# py2app==0.18
+# pyasn1==0.4.3
+# pyasn1-modules==0.2.1
+# pycodestyle==2.3.1
+# pycparser==2.18
+# pycryptodome==3.8.1
+# pycryptodomex==3.8.1
+# PyDispatcher==2.0.5
+# pydivert==2.0.9
+# pyflakes==1.6.0
+# pyftpdlib==1.5.4
+# Pygments==2.2.0
+# pygsheets==2.0.0
+# PyJWT==1.6.4
+# pylint==1.8.1
+# pymongo==3.6.0
+PyMySQL==0.9.3
+# pyOpenSSL==16.2.0
+# pyparsing==2.2.0
+# pyPdf==1.13
+# PyPDF2==1.26.0
+# pyperclip==1.5.32
+# Pyphen==0.9.4
+# pypiwin32==220
+# pypyodbc==1.3.4
+# PyQt5==5.9.2
+# pyreadline==2.1
+# PySocks==1.6.8
+# pytabcmd==9.2.0
+# pytesseract==0.2.4
+# pytest==4.2.0
+# python-dateutil==2.6.1
+# python-gflags==3.1.2
+# python-gmaps==0.3.1
+# python-memcached==1.58
+# pytz==2017.3
+# PyVirtualDisplay==0.2.1
+# pywinpty==0.5.1
+# PyYAML==3.12
+# pyzmq==16.0.3
+# QtAwesome==0.4.4
+# qtconsole==4.3.1
+# QtPy==1.3.1
+# queuelib==1.4.2
+# ratelim==0.1.6
+# redis==2.10.6
+# regex==2017.4.5
+# reportlab==3.4.0
+# requests==2.21.0
+# requests-oauthlib==1.0.0
+# rope==0.10.7
+# rq==0.12.0
+# rsa==3.4.2
+# ruamel.yaml==0.13.14
+# s3transfer==0.1.13
+# scikit-learn==0.20.0
+# scipy==1.0.1
+# Scrapy==1.5.0
+# scrapy-splash==0.7.2
+# selenium==3.7.0
+# Send2Trash==1.5.0
+# service-identity==17.0.0
+# shellescape==3.4.1
+# simplegeneric==0.8.1
+# simplejson==3.16.0
+# sip==4.19.6
+# six==1.11.0
+# sklearn==0.0
+# smart-open==1.7.1
+# smmap2==2.0.3
+# snowballstemmer==1.2.1
+# sortedcontainers==1.5.7
+# spacy==2.0.12
+# Sphinx==1.8.1
+# sphinxcontrib-websupport==1.0.1
+# spyder==3.2.6
+SQLAlchemy==1.0.6
+# sqlalchemy
+# standardjson==0.3.1
+# statsmodels==0.8.0
+# terminado==0.8.1
+# tesseract==0.1.3
+# testpath==0.3.1
+# textblob==0.15.1
+# thinc==6.10.3
+# tinycss==0.3
+# tinycss2==0.6.1
+# toolz==0.9.0
+# tornado==4.4.3
+# tqdm==4.25.0
+# traitlets==4.3.2
+# twilio==6.17.0
+# Twisted==17.9.0
+# typing==3.6.4
+# ua-parser==0.8.0
+# ujson==1.35
+Unidecode==1.0.22
+# uritemplate==3.0.0
+# urllib3==1.22
+# urwid==1.3.1
+user-agents==1.1.0
+# vine==1.1.4
+# virtualenv==15.1.0
+# virtualenvwrapper-win==1.2.3
+# w3lib==1.18.0
+# watchdog==0.8.3
+# wcwidth==0.1.7
+# WeasyPrint==0.27
+# webencodings==0.5.1
+# webhooks==0.4.2
+# webkit2png==0.8.2
+# Werkzeug==0.10.4
+# widgetsnbextension==3.2.1
+# wkhtmltopdf==0.2
+# wordcloud==1.5.0
+# wrapt==1.10.11
+# xhtml2pdf==0.2.2
+# xlrd==1.1.0
+# xvfbwrapper==0.2.9
+# zope.interface==4.4.3
